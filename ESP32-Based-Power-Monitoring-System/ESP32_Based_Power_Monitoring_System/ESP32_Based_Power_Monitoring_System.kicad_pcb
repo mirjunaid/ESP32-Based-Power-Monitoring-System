@@ -3788,6 +3788,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD_CUSTOM_LIB}/3D-Models/ESP32_WROOM_32UE_N8/ESP32-WROOM-32UE-N8.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Package_TO_SOT_SMD:TO-263-2"
 		(layer "F.Cu")
